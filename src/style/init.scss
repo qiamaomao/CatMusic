@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+body {
+  font-family: 本墨字语;
+  background: url(../assets/images/bg.jpg);
+  background-position: 0% 40%;
+  background-size: 100vw;
+}
